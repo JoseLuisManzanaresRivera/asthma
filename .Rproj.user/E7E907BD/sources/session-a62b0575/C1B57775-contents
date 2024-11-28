@@ -1,5 +1,5 @@
 baseURL: https://genway.com.cn/
-theme: fuck
+theme: hugo-theme-walden
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: no
 pagination:
