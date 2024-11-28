@@ -1,5 +1,5 @@
 library(blogdown)
-new_site(theme = "Kaligule/classless blog")
+new_site(theme = "hugo-theme-walden")
 serve_site()
 
 
