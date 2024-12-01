@@ -7,7 +7,7 @@ params:
 series: headline
 tags:
 - Hugo theme
-title: Externalidades negativas de la actividad ecoómica en la frontera Coahuila-Texas: El caso de egresos hospitalarios a causa de asma.
+title: Externalidades negativas de la actividad ecoómica en la frontera Coahuila-Texas. El caso de egresos hospitalarios a causa de asma.
 ---
 
 The work analyzes the patterns of hospital discharges due to asthma classified under codes J450, J451, J458 and J459 of the International Classification of diseases (ICD-10). 

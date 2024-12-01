@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Walden</title>
-    <link>http://localhost:3174/series/</link>
+    <link>http://localhost:4321/series/</link>
     <description>Recent content in Series on Walden</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>All rights reserved</copyright>
-    <lastBuildDate>Mon, 29 Jul 2024 14:26:19 +0800</lastBuildDate>
-    <atom:link href="http://localhost:3174/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Dec 2024 14:26:19 +0800</lastBuildDate>
+    <atom:link href="http://localhost:4321/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Headline</title>
-      <link>http://localhost:3174/series/headline/</link>
-      <pubDate>Mon, 29 Jul 2024 14:26:19 +0800</pubDate>
-      <guid>http://localhost:3174/series/headline/</guid>
+      <link>http://localhost:4321/series/headline/</link>
+      <pubDate>Sun, 01 Dec 2024 14:26:19 +0800</pubDate>
+      <guid>http://localhost:4321/series/headline/</guid>
       <description></description>
     </item>
   </channel>
