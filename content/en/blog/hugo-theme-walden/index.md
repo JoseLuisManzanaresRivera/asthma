@@ -1,16 +1,16 @@
 ---
 categories: Hugo
-date: "2024-07-29T14:26:19+08:00"
+date: "2024-12-01T14:26:19+08:00"
 draft: false
 params:
-  author: Homecat
+  author: José Luis Manzanares Rivera
 series: headline
 tags:
 - Hugo theme
 title: Externalidades negativas de la actividad ecoómica en la frontera Coahuila-Texas: El caso de egresos hospitalarios a causa de asma.
 ---
 
-After reading , a collection of essays by American writer Henry David Thoreau, I was deeply influenced by his love of nature and simple living. So, I wrote this concise and clear theme for my personal website and named it Walden.
+The work analyzes the patterns of hospital discharges due to asthma classified under codes J450, J451, J458 and J459 of the International Classification of diseases (ICD-10). 
 
 <!--more-->
 
