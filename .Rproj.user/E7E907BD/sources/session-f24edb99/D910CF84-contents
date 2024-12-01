@@ -3,7 +3,7 @@ pluralizeListTitles: no
 summaryLength: 25
 theme: BlogRa
 languageCode: en-us
-title: Foro.
+title: Foro 
 disqusShortname: ''
 params:
   adsense: adsense-key
