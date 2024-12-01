@@ -1,6 +1,6 @@
 ---
 date: "2024-12-01"
-description: Lorem Ipsum Dolor Si Amet
+description: Motivación
 image: blog.jpg
 tags:
 - markdown
