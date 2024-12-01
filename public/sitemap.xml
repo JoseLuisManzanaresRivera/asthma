@@ -3,7 +3,29 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/blogra/tags/chords/</loc>
+	    <loc>http://localhost:3252/blogra/posts/placeholder-text/</loc>
+	    <lastmod>2024-12-01</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:3252/blogra/posts/</loc>
+	    <lastmod>2024-12-01</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:3252/blogra/tags/chords/</loc>
 	    <lastmod>2020-12-23</lastmod>
         
 
@@ -14,7 +36,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/blogra/posts/chords-for-happy-birthday/</loc>
+	    <loc>http://localhost:3252/blogra/posts/chords-for-happy-birthday/</loc>
 	    <lastmod>2020-12-23</lastmod>
         
 
@@ -25,7 +47,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/blogra/tags/css/</loc>
+	    <loc>http://localhost:3252/blogra/tags/css/</loc>
 	    <lastmod>2020-12-23</lastmod>
         
 
@@ -36,7 +58,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/blogra/tags/html/</loc>
+	    <loc>http://localhost:3252/blogra/tags/html/</loc>
 	    <lastmod>2020-12-23</lastmod>
         
 
@@ -47,7 +69,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/blogra/tags/markdown/</loc>
+	    <loc>http://localhost:3252/blogra/tags/markdown/</loc>
 	    <lastmod>2020-12-23</lastmod>
         
 
@@ -58,7 +80,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/blogra/posts/markdown-syntax/</loc>
+	    <loc>http://localhost:3252/blogra/posts/markdown-syntax/</loc>
 	    <lastmod>2020-12-23</lastmod>
         
 
@@ -69,7 +91,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/blogra/tags/music/</loc>
+	    <loc>http://localhost:3252/blogra/tags/music/</loc>
 	    <lastmod>2020-12-23</lastmod>
         
 
@@ -80,7 +102,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/blogra/posts/placeholder-text/</loc>
+	    <loc>http://localhost:3252/blogra/tags/</loc>
 	    <lastmod>2020-12-23</lastmod>
         
 
@@ -91,7 +113,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/blogra/posts/</loc>
+	    <loc>http://localhost:3252/blogra/tags/themes/</loc>
 	    <lastmod>2020-12-23</lastmod>
         
 
@@ -102,40 +124,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/blogra/tags/</loc>
-	    <lastmod>2020-12-23</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:4321/blogra/tags/text/</loc>
-	    <lastmod>2020-12-23</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:4321/blogra/tags/themes/</loc>
-	    <lastmod>2020-12-23</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:4321/blogra/tags/privacy/</loc>
+	    <loc>http://localhost:3252/blogra/tags/privacy/</loc>
 	    <lastmod>2020-12-22</lastmod>
         
 
@@ -146,7 +135,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/blogra/posts/rich-content/</loc>
+	    <loc>http://localhost:3252/blogra/posts/rich-content/</loc>
 	    <lastmod>2020-12-22</lastmod>
         
 
@@ -157,7 +146,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/blogra/tags/shortcodes/</loc>
+	    <loc>http://localhost:3252/blogra/tags/shortcodes/</loc>
 	    <lastmod>2020-12-22</lastmod>
         
 
@@ -168,7 +157,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/blogra/tags/math/</loc>
+	    <loc>http://localhost:3252/blogra/tags/math/</loc>
 	    <lastmod>2020-12-21</lastmod>
         
 
@@ -179,7 +168,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/blogra/posts/write-math-equations/</loc>
+	    <loc>http://localhost:3252/blogra/posts/write-math-equations/</loc>
 	    <lastmod>2020-12-21</lastmod>
         
 
@@ -190,7 +179,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/blogra/posts/make-diagrams-with-mermaid/</loc>
+	    <loc>http://localhost:3252/blogra/posts/make-diagrams-with-mermaid/</loc>
 	    <lastmod>2020-12-20</lastmod>
         
 
@@ -201,7 +190,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/blogra/tags/mermaid/</loc>
+	    <loc>http://localhost:3252/blogra/tags/mermaid/</loc>
 	    <lastmod>2020-12-20</lastmod>
         
 
@@ -212,51 +201,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/blogra/sections/python-tutorial/chapter-2/</loc>
-	    <lastmod>2020-12-02</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:4321/blogra/tags/python/</loc>
-	    <lastmod>2020-12-02</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:4321/blogra/sections/python-tutorial/</loc>
-	    <lastmod>2020-12-02</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:4321/blogra/sections/</loc>
-	    <lastmod>2020-12-02</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:4321/blogra/sections/python-tutorial/chapter-1/</loc>
+	    <loc>http://localhost:3252/blogra/categories/</loc>
 	    <lastmod>2020-12-01</lastmod>
         
 
@@ -267,7 +212,117 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/blogra/tags/emoji/</loc>
+	    <loc>http://localhost:3252/blogra/posts/2020-12-01-r-rmarkdown/</loc>
+	    <lastmod>2020-12-01</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:3252/blogra/tags/plot/</loc>
+	    <lastmod>2020-12-01</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:3252/blogra/categories/r/</loc>
+	    <lastmod>2020-12-01</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:3252/blogra/tags/r-markdown/</loc>
+	    <lastmod>2020-12-01</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:3252/blogra/tags/regression/</loc>
+	    <lastmod>2020-12-01</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:3252/blogra/sections/python-tutorial/chapter-2/</loc>
+	    <lastmod>2020-12-02</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:3252/blogra/tags/python/</loc>
+	    <lastmod>2020-12-02</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:3252/blogra/sections/python-tutorial/</loc>
+	    <lastmod>2020-12-02</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:3252/blogra/sections/</loc>
+	    <lastmod>2020-12-02</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:3252/blogra/sections/python-tutorial/chapter-1/</loc>
+	    <lastmod>2020-12-01</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:3252/blogra/tags/emoji/</loc>
 	    <lastmod>2020-04-13</lastmod>
         
 
@@ -278,7 +333,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/blogra/posts/emoji-support/</loc>
+	    <loc>http://localhost:3252/blogra/posts/emoji-support/</loc>
 	    <lastmod>2020-04-13</lastmod>
         
 
@@ -289,7 +344,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/blogra/</loc>
+	    <loc>http://localhost:3252/blogra/</loc>
 	    <lastmod>2020-03-25</lastmod>
         
 
@@ -300,7 +355,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/blogra/about/</loc>
+	    <loc>http://localhost:3252/blogra/about/</loc>
 	    <lastmod>0001-01-01</lastmod>
         
 
@@ -313,18 +368,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/blogra/categories/</loc>
-	    <lastmod>0001-01-01</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:4321/blogra/contact/</loc>
+	    <loc>http://localhost:3252/blogra/contact/</loc>
 	    <lastmod>0001-01-01</lastmod>
         
 

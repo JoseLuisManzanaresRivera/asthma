@@ -1,13 +1,13 @@
-baseURL: https://example.com/blogra/
+baseURL: https://foro-adaptaciones.netlify.app/
 pluralizeListTitles: no
 summaryLength: 25
 theme: BlogRa
 languageCode: en-us
-title: BlogRa
+title: Foro.
 disqusShortname: ''
 params:
   adsense: adsense-key
-  contactEmail: your-email@domain.com
+  contactEmail: jlmanzanares@colef.mx  
   description: The Ultimate Tech Blogging Theme
   facebook: https://www.facebook.com/DevHacker-2351204168278028
   footer: ''
@@ -27,9 +27,9 @@ menu:
       url: /
       weight: 1
     - identifier: blog
-      name: Blog
+      name: Research
       weight: 2
-    - name: Posts
+    - name: Analysis
       parent: blog
       url: /posts/
       weight: 1
