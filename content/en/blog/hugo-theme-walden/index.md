@@ -7,7 +7,7 @@ params:
 series: headline
 tags:
 - Hugo theme
-title: Hugo Theme Walden
+title: El caso de egresos hospitalarios a causa de asma
 ---
 
 After reading <i><b>Walden</b></i>, a collection of essays by American writer Henry David Thoreau, I was deeply influenced by his love of nature and simple living. So, I wrote this concise and clear theme for my personal website and named it Walden.
