@@ -8,11 +8,7 @@ tags:
 title: Externalidades negativas de la actividad económica en la frontera Coahuila-Texas. El caso de egresos hospitalarios a causa de asma
 ---
 
-Lorem est tota propiore conpellat pectoribus de
-pectora summo. <!--more-->Redit teque digerit hominumque toris verebor lumina non cervice
-subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc
-caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis
-lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
+Abstract <!--more-->The work analyzes the patterns of hospital discharges due to asthma classified under codes J450, J451, J458 and J459 of the International Classification of diseases (ICD-10).
 
 1. Exierant elisi ambit vivere dedere
 2. Duce pollice
