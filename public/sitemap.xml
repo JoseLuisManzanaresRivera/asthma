@@ -3,7 +3,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/posts/placeholder-text/</loc>
+	    <loc>http://localhost:7377/posts/placeholder-text/</loc>
 	    <lastmod>2024-12-01</lastmod>
         
 
@@ -14,7 +14,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/posts/</loc>
+	    <loc>http://localhost:7377/posts/</loc>
 	    <lastmod>2024-12-01</lastmod>
         
 
@@ -25,8 +25,8 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/tags/chords/</loc>
-	    <lastmod>2020-12-23</lastmod>
+	    <loc>http://localhost:7377/posts/markdown-syntax/</loc>
+	    <lastmod>2024-11-29</lastmod>
         
 
         
@@ -36,8 +36,8 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/posts/chords-for-happy-birthday/</loc>
-	    <lastmod>2020-12-23</lastmod>
+	    <loc>http://localhost:7377/posts/chords-for-happy-birthday/</loc>
+	    <lastmod>2024-10-24</lastmod>
         
 
         
@@ -47,84 +47,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/tags/css/</loc>
-	    <lastmod>2020-12-23</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:4321/tags/html/</loc>
-	    <lastmod>2020-12-23</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:4321/tags/markdown/</loc>
-	    <lastmod>2020-12-23</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:4321/posts/markdown-syntax/</loc>
-	    <lastmod>2020-12-23</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:4321/tags/music/</loc>
-	    <lastmod>2020-12-23</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:4321/tags/</loc>
-	    <lastmod>2020-12-23</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:4321/tags/themes/</loc>
-	    <lastmod>2020-12-23</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:4321/tags/privacy/</loc>
+	    <loc>http://localhost:7377/tags/privacy/</loc>
 	    <lastmod>2020-12-22</lastmod>
         
 
@@ -135,7 +58,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/posts/rich-content/</loc>
+	    <loc>http://localhost:7377/posts/rich-content/</loc>
 	    <lastmod>2020-12-22</lastmod>
         
 
@@ -146,7 +69,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/tags/shortcodes/</loc>
+	    <loc>http://localhost:7377/tags/shortcodes/</loc>
 	    <lastmod>2020-12-22</lastmod>
         
 
@@ -157,7 +80,18 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/tags/math/</loc>
+	    <loc>http://localhost:7377/tags/</loc>
+	    <lastmod>2020-12-22</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:7377/tags/math/</loc>
 	    <lastmod>2020-12-21</lastmod>
         
 
@@ -168,7 +102,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/posts/write-math-equations/</loc>
+	    <loc>http://localhost:7377/posts/write-math-equations/</loc>
 	    <lastmod>2020-12-21</lastmod>
         
 
@@ -179,7 +113,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/posts/make-diagrams-with-mermaid/</loc>
+	    <loc>http://localhost:7377/posts/make-diagrams-with-mermaid/</loc>
 	    <lastmod>2020-12-20</lastmod>
         
 
@@ -190,7 +124,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/tags/mermaid/</loc>
+	    <loc>http://localhost:7377/tags/mermaid/</loc>
 	    <lastmod>2020-12-20</lastmod>
         
 
@@ -201,7 +135,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/categories/</loc>
+	    <loc>http://localhost:7377/categories/</loc>
 	    <lastmod>2020-12-01</lastmod>
         
 
@@ -212,7 +146,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/posts/2020-12-01-r-rmarkdown/</loc>
+	    <loc>http://localhost:7377/posts/2020-12-01-r-rmarkdown/</loc>
 	    <lastmod>2020-12-01</lastmod>
         
 
@@ -223,7 +157,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/tags/plot/</loc>
+	    <loc>http://localhost:7377/tags/plot/</loc>
 	    <lastmod>2020-12-01</lastmod>
         
 
@@ -234,7 +168,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/categories/r/</loc>
+	    <loc>http://localhost:7377/categories/r/</loc>
 	    <lastmod>2020-12-01</lastmod>
         
 
@@ -245,7 +179,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/tags/r-markdown/</loc>
+	    <loc>http://localhost:7377/tags/r-markdown/</loc>
 	    <lastmod>2020-12-01</lastmod>
         
 
@@ -256,7 +190,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/tags/regression/</loc>
+	    <loc>http://localhost:7377/tags/regression/</loc>
 	    <lastmod>2020-12-01</lastmod>
         
 
@@ -267,7 +201,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/sections/python-tutorial/chapter-2/</loc>
+	    <loc>http://localhost:7377/sections/python-tutorial/chapter-2/</loc>
 	    <lastmod>2020-12-02</lastmod>
         
 
@@ -278,7 +212,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/tags/python/</loc>
+	    <loc>http://localhost:7377/tags/python/</loc>
 	    <lastmod>2020-12-02</lastmod>
         
 
@@ -289,7 +223,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/sections/python-tutorial/</loc>
+	    <loc>http://localhost:7377/sections/python-tutorial/</loc>
 	    <lastmod>2020-12-02</lastmod>
         
 
@@ -300,7 +234,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/sections/</loc>
+	    <loc>http://localhost:7377/sections/</loc>
 	    <lastmod>2020-12-02</lastmod>
         
 
@@ -311,7 +245,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/sections/python-tutorial/chapter-1/</loc>
+	    <loc>http://localhost:7377/sections/python-tutorial/chapter-1/</loc>
 	    <lastmod>2020-12-01</lastmod>
         
 
@@ -322,7 +256,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/tags/emoji/</loc>
+	    <loc>http://localhost:7377/tags/emoji/</loc>
 	    <lastmod>2020-04-13</lastmod>
         
 
@@ -333,7 +267,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/posts/emoji-support/</loc>
+	    <loc>http://localhost:7377/posts/emoji-support/</loc>
 	    <lastmod>2020-04-13</lastmod>
         
 
@@ -344,7 +278,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/</loc>
+	    <loc>http://localhost:7377/</loc>
 	    <lastmod>2020-03-25</lastmod>
         
 
@@ -355,7 +289,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/about/</loc>
+	    <loc>http://localhost:7377/about/</loc>
 	    <lastmod>0001-01-01</lastmod>
         
 
@@ -368,7 +302,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/contact/</loc>
+	    <loc>http://localhost:7377/contact/</loc>
 	    <lastmod>0001-01-01</lastmod>
         
 

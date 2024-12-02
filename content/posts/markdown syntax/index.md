@@ -8,7 +8,7 @@ title: Motivación
 
 * Strategic economic activities  **Coal minning** and **electricity** generation burnig coal as input. 
 
-* Binational economic integration: Comlementary **Coal imports** electricity export potential
+* Binational economic integration: Comlementary **Coal imports** electricity export potential. Coahuila-Texas.
 
 * Local **air pollution** and regional public health issues with relevant **social cost**. 
 

@@ -1,22 +1,12 @@
 ---
-date: "2020-12-23"
+date: "2024-10-24"
 image: hbd.png
 tags:
-- music
-- chords
-title: Chords for Happy Birthday
+
+title: Theoretical framework
 ---
 
-{{<highlight md>}}
-      C           G
-Happy birthday to you
 
-      G           C
-Happy birthday to you
+## Environmental health
 
-      C             F
-Happy birthday dear BlogRa
-
-      C        Bdim C
-Happy birthday to   you
-{{</highlight>}}
+* **WHO** perspective on human health including life quality and its social considerations.  
