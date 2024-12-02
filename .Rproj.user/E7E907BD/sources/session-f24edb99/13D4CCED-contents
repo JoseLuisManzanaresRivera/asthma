@@ -1,8 +1,0 @@
-library(blogdown)
-new_site(theme = "rafed
-/
-BlogRa")
-serve_site()
-
-
-blogdown::build_site()
