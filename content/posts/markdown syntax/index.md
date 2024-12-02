@@ -5,7 +5,23 @@ tags:
 title: Motivación
 ---
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
+
+* Strategic economic activities  **Coal minning** and **electricity** generation burnig coal as input. 
+
+* Binational economic integration: Comlementary **Coal imports** electricity export potential
+
+* Local **air pollution** and regional public health issues with relevant **social cost**. 
+
+* A region hosting the biggest **sulfur dioxide** SO<sub>2</sub> contamination source among carbon-burning electricity generation plants in North America. (Including all US and Canadian plants). 
+
+* Coahuila-Texas border:  Higher than national morbidity rates for **respiratory diseases**
+
+
+> **Goal**: Contribute to understand the relationship between <mark>environmental<mark> factors of anthropogenic origin and the health conditions of the population. 
+
+
+
+
 <!--more-->
 
 ## Headings
