@@ -22,13 +22,13 @@ title: Theoretical framework
 ## Economic activity and environmental pollution
 
 * Coahuila as the leading **coal** producer of the country.
-Production valued at 7.02 MMP.
+Production valued at 7.02 MMP annually (351 Million USD)
 
 * Old (outdated) energy generation models.  
 
 * Regional hub for electricity generation (producing 10% of the country's electricity consumption). Two CFE plants.
 
-* **PM<sub>2.5</sub>**  SO</sub>x</sub>, NO</sub>x</sub> By-product waste generated: **Mercury**   1,7 tons.  and 12,000 **ash** and **coal dust** contaninig heavy metals. 
+* **PM<sub>2.5</sub>  SO</sub>x</sub>, NO</sub>x</sub>** By-product waste generated: **Mercury**   1,7 tons.  and 12,000 **ash** and **coal dust** contaninig heavy metals. 
 
 * Estimated affected area. **12, 000 km<sup>2</sup>.** 
 
