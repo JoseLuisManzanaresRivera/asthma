@@ -1,6 +1,6 @@
 ---
 date: "2024-12-01"
-description: Motivación
+description: Intro
 image: blog.jpg
 tags:
 

@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Foro</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Externalidades negativas de la actividad económica en la frontera Coahuila-Texas. El caso de egresos hospitalarios a causa de asma</title>
+      <link>http://localhost:4321/posts/slide1/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/posts/slide1/</guid>
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;&#xA;&lt;p&gt;The work analyzes spatial and temporal patterns of hospital discharges due to asthma classified under codes &lt;strong&gt;J450&lt;/strong&gt;, (predominantly allergic asthma) &lt;strong&gt;J451&lt;/strong&gt; (non-allergic asthma), &lt;strong&gt;J458&lt;/strong&gt; (Mixed athma) and &lt;strong&gt;J459&lt;/strong&gt; (unspecified) of the International Classification of diseases (ICD-10).&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Motivación</title>
       <link>http://localhost:4321/posts/markdown-syntax/</link>
