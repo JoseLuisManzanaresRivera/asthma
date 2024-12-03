@@ -43,8 +43,8 @@ Production valued at 7.02 MMP annually (351 Million USD)
 
 ![Coahuila Texas-Border](./images/plantas-cfe.jpg)
 <span style="font-size: 10px;">Fuente: El Heraldo de Saltillo</span> 
-![Coahuila Texas-Border](./images/cfe1.png)
-<span style="font-size: 10px;">Fuente: CFE</span> 
+
+
 ![ ](./images/air-pollution.jpg)
 <span style="font-size: 10px;">Fuente: Infobae</span> 
 
