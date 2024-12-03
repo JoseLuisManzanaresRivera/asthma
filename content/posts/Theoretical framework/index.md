@@ -34,7 +34,7 @@ Production valued at 7.02 MMP annually (351 Million USD)
 ![Coahuila Texas-Border](./images/plantas-cfe.jpg)
 <span style="font-size: 10px;">Fuente: El Heraldo de Saltillo</span> 
 
-* **PM<sub>2.5</sub>  SO</sub>x</sub>, NO</sub>x</sub>** By-product waste generated: **Mercury**   1,7 tons.  and 12,000 **ash** and **coal dust** containing heavy metals. 
+* **PM<sub>2.5</sub>  SO</sub>x</sub>, NO</sub>x</sub>** By-product waste generated: **Mercury**   1,7 tons.  and 12,000 **ash** and **coal dust** containing **heavy metals**. 
 
 ![ ](./images/air-pollution.jpg)
 <span style="font-size: 10px;">Fuente: Infobae</span> 
