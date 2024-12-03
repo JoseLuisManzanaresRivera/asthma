@@ -13,8 +13,7 @@ title: Motivación
 
 * Binational economic integration: Comlementary **Coal imports** (*Dos Republicas Coal partnership* MINOSA at Eagle Pass Maverick County, Texas) and electricity export potential. Coahuila-Texas grid. 
 
-![](./images/carbon.jpg)
-<span style="font-size: 10px;">Fuente: [Energy and Commerce](https://energyandcommerce.com.mx/cfe-ofrece-compra-emergente-de-carbon-a-coahuila/) </span> 
+
 
 ![](./images/eaglepass.jpg)
 <span style="font-size: 10px;">Fuente: San Antonio News </span> 
