@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Foro</title>
-    <link>http://localhost:7377/tags/</link>
+    <link>http://localhost:4321/tags/</link>
     <description>Recent content in Tags on Foro</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 22 Dec 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:7377/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4321/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Privacy</title>
-      <link>http://localhost:7377/tags/privacy/</link>
+      <link>http://localhost:4321/tags/privacy/</link>
       <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7377/tags/privacy/</guid>
+      <guid>http://localhost:4321/tags/privacy/</guid>
       <description></description>
     </item>
     <item>
       <title>Shortcodes</title>
-      <link>http://localhost:7377/tags/shortcodes/</link>
+      <link>http://localhost:4321/tags/shortcodes/</link>
       <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7377/tags/shortcodes/</guid>
+      <guid>http://localhost:4321/tags/shortcodes/</guid>
       <description></description>
     </item>
     <item>
       <title>Math</title>
-      <link>http://localhost:7377/tags/math/</link>
+      <link>http://localhost:4321/tags/math/</link>
       <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7377/tags/math/</guid>
+      <guid>http://localhost:4321/tags/math/</guid>
       <description></description>
     </item>
     <item>
       <title>Mermaid</title>
-      <link>http://localhost:7377/tags/mermaid/</link>
+      <link>http://localhost:4321/tags/mermaid/</link>
       <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7377/tags/mermaid/</guid>
+      <guid>http://localhost:4321/tags/mermaid/</guid>
       <description></description>
     </item>
     <item>
       <title>Plot</title>
-      <link>http://localhost:7377/tags/plot/</link>
+      <link>http://localhost:4321/tags/plot/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>http://localhost:7377/tags/plot/</guid>
+      <guid>http://localhost:4321/tags/plot/</guid>
       <description></description>
     </item>
     <item>
       <title>R Markdown</title>
-      <link>http://localhost:7377/tags/r-markdown/</link>
+      <link>http://localhost:4321/tags/r-markdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>http://localhost:7377/tags/r-markdown/</guid>
+      <guid>http://localhost:4321/tags/r-markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Regression</title>
-      <link>http://localhost:7377/tags/regression/</link>
+      <link>http://localhost:4321/tags/regression/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>http://localhost:7377/tags/regression/</guid>
+      <guid>http://localhost:4321/tags/regression/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>http://localhost:7377/tags/python/</link>
+      <link>http://localhost:4321/tags/python/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7377/tags/python/</guid>
+      <guid>http://localhost:4321/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Emoji</title>
-      <link>http://localhost:7377/tags/emoji/</link>
+      <link>http://localhost:4321/tags/emoji/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7377/tags/emoji/</guid>
+      <guid>http://localhost:4321/tags/emoji/</guid>
       <description></description>
     </item>
   </channel>

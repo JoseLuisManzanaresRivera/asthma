@@ -12,7 +12,7 @@ title: Motivación
 
 * Local **air pollution** and regional public health issues with relevant **social cost**. 
 
-* A region hosting the biggest **sulfur dioxide** SO<sub>2</sub> contamination source among carbon-burning electricity generation plants in North America. (Including all US and Canadian plants). As well as the first place in the group of nitrogen oxides (NO<sub>x</sub>) <cite> NACEC [^1]</cite>
+* A region hosting the biggest **sulfur dioxide** SO<sub>2</sub> contamination source among carbon-burning electricity generation plants in North America. (Including all US and Canadian plants). As well as the first place in the group of **nitrogen oxides** (NO<sub>x</sub>) <cite> NACEC [^1]</cite>
 
 
 [^1]: See full report on  [CEC](http://www.cec.org/es/publications/emisiones-atmosfericas-de-las-centrales-electricas-en-america-del-norte-2/).
