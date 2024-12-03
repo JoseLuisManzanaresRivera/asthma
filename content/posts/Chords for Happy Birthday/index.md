@@ -42,3 +42,7 @@ Production valued at 7.02 MMP annually (351 Million USD)
 <span style="font-size: 10px;">Fuente: Elaboración propia con datos de (INEGI, 2024a; US Census Bureau, 2024b),</span>  
 
 
+![Coahuila Texas-Border](./images/localizacion.jpg)
+
+
+<span style="font-size: 10px;">Fuente: Elaboración propia con datos de (INEGI, 2024a; US Census Bureau, 2024b),</span>  
