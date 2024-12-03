@@ -39,6 +39,6 @@ Production valued at 7.02 MMP.
 <img src="{{< blogdown/postref >}}index_flies/figures-html/CFE I y II_v2.jpg" alt="." width="672" />
 </div>
 
-
+<span style="font-size: 10px;">Fuente: Elaboración propia con datos de (INEGI, 2024a; US Census Bureau, 2024b),</span>  
 
 
