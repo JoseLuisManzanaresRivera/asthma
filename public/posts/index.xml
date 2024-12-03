@@ -6,28 +6,35 @@
     <description>Recent content in Posts on Foro</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Externalidades negativas de la actividad económica en la frontera Coahuila-Texas. El caso de egresos hospitalarios a causa de asma</title>
+      <link>http://localhost:4321/posts/abstract/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/posts/abstract/</guid>
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;&#xA;&lt;p&gt;The work analyzes spatial and temporal patterns of hospital discharges due to asthma classified under codes &lt;strong&gt;J450&lt;/strong&gt;, (predominantly allergic asthma) &lt;strong&gt;J451&lt;/strong&gt; (non-allergic asthma), &lt;strong&gt;J458&lt;/strong&gt; (Mixed athma) and &lt;strong&gt;J459&lt;/strong&gt; (unspecified) of the International Classification of diseases (ICD-10).&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Motivación</title>
-      <link>http://localhost:4321/posts/slide2/</link>
+      <link>http://localhost:4321/posts/motivation/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/posts/slide2/</guid>
+      <guid>http://localhost:4321/posts/motivation/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;Strategic economic activities  &lt;strong&gt;Coal minning&lt;/strong&gt; and &lt;strong&gt;electricity&lt;/strong&gt; generation burnig coal as input.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./images/micare.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;span style=&#34;font-size: 10px;&#34;&gt;Fuente: &lt;a href=&#34;&#34;&gt;MICARE MINOSA  Dos Repulicas Coal Partnership&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Binational economic integration: Comlementary &lt;strong&gt;Coal imports&lt;/strong&gt; (&lt;em&gt;Dos Republicas Coal partnership&lt;/em&gt; MINOSA at Eagle Pass Maverick County, Texas) and electricity export potential. Coahuila-Texas grid.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./images/eaglepass.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;span style=&#34;font-size: 10px;&#34;&gt;Fuente: San Antonio News &lt;/span&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Theoretical framework</title>
-      <link>http://localhost:4321/posts/slide3/</link>
+      <link>http://localhost:4321/posts/theoretical-framework/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/posts/slide3/</guid>
+      <guid>http://localhost:4321/posts/theoretical-framework/</guid>
       <description>&lt;h2 id=&#34;environmental-health&#34;&gt;Environmental health&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;WHO&lt;/strong&gt; perspective on human health including life quality and its social considerations.  (Not only the traditional quimical, fisical and biological factors that are determined on the environment).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Methods and data sources</title>
-      <link>http://localhost:4321/posts/slide4/</link>
+      <link>http://localhost:4321/posts/methods-and-data/</link>
       <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/posts/slide4/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+      <guid>http://localhost:4321/posts/methods-and-data/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Definition: According to the Ministry of Health (SSA), a &lt;strong&gt;hospital discharge&lt;/strong&gt; is defined as the release of a patient from the inpatient services of a hospital.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This concept does not include internal transfers—such as moving a patient from one department to another within the same hospital—nor does it include healthy newborns in the same hospital (SINAIS, 2024).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Write Math Equations</title>

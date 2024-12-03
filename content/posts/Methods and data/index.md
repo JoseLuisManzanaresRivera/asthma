@@ -1,29 +1,22 @@
 ---
 date: "2024-09-22"
-image: md.png
+image: md.jpg
 title: Methods and data sources
 ---
 
-Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes) for rich content, along with a [Privacy Config](https://gohugo.io/about/hugo-and-gdpr/) and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
-<!--more-->
----
+* Main data source: National Health Information System.
+This is a public-official data registry. It covers patients in all public health institutions.  Available at:  [SINAIS](http://www.dgis.salud.gob.mx/contenidos/basesdedatos/bdc_egresoshosp_gobmx.html)
 
-## Binational controversy
+* **18 years** of information startitn at 2004 ending  2022.
 
-{{< youtube w6KjcavHFrA >}}
-            
-<br>
+* **Definition:** According to the Ministry of Health (SSA), a **hospital discharge** is defined as the release of a patient from the inpatient services of a hospital.
 
----
+This concept does not include internal transfers—such as moving a patient from one department to another within the same hospital—nor does it include healthy newborns in the same hospital (SINAIS, 2024).
 
-## Twitter Simple Shortcode
+* **Geographical coverage:**  38 Municipalities and 5 regions within the Coahila State.   *here add single maps for each reagion.* 
 
-{{< twitter user="SanDiegoZoo" id="1453110110599868418" >}}
 
-<br>
 
----
 
-## Vimeo Simple Shortcode
 
-{{< vimeo_simple 48912912 >}}
+
