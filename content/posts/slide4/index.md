@@ -1,23 +1,11 @@
 ---
-date: "2020-12-22"
+date: "2024-09-22"
 image: md.png
-tags:
-- shortcodes
-- privacy
-title: Rich Content
+title: Methods and data sources
 ---
 
 Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes) for rich content, along with a [Privacy Config](https://gohugo.io/about/hugo-and-gdpr/) and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
 <!--more-->
----
-
-## YouTube Privacy Enhanced Shortcode
-
-{{< youtube ZJthWmvUzzc >}}
-
-<br>
-
----
 
 ## Twitter Simple Shortcode
 

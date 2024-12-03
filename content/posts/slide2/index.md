@@ -20,6 +20,17 @@ title: Motivación
 
 * Local **air pollution** and regional public health issues with relevant **social cost**. 
 
+---
+
+### Transborder implications
+
+{{< youtube 1aOE2t1bPiM >}}
+            
+<br>
+
+---
+
+
 * A region hosting the biggest **sulfur dioxide** SO<sub>2</sub> contamination source among carbon-burning electricity generation plants in North America. (2,869 sites, including all US and Canadian plants). As well as the first place in the group of **nitrogen oxides** (NO<sub>x</sub>) <cite> NACEC [^1]</cite>
 
 
