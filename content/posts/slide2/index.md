@@ -8,7 +8,9 @@ title: Motivación
 
 * Strategic economic activities  **Coal minning** and **electricity** generation burnig coal as input. 
 
-* Binational economic integration: Comlementary **Coal imports** and electricity export potential. Coahuila-Texas grid. 
+![](./images/MINOSA.jpg)
+
+* Binational economic integration: Comlementary **Coal imports** (*Dos Republicas Coal partnership* MINOSA at Eagle Pass Maverick County, Texas) and electricity export potential. Coahuila-Texas grid. 
 
 * Local **air pollution** and regional public health issues with relevant **social cost**. 
 
