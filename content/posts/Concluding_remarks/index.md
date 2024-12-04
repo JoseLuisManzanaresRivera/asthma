@@ -34,7 +34,11 @@ Which indicates a persistent issue demanding the attention of public health auth
 
 * Higher than the national morbidity rates for the border and coal mining regions:   **9.2 vs. 15  per  100 000 pop**. 
 
-* Evidence suggest the existence of a **hot spot** 📍 of **asthma** in the **desert region** ️🏜️  as well as the **Laguna region**  The former assosated to desert dust (the highest concentration of PM<sub>10</sub> )and the latter associated to the highest emissions of **Ammonia**.  NH<sub>3</sub> A quimical element found as a result of the economic activity of the region which includes **agro food and dairy industries 🐄**. (Use as **fertilizers**).
+* Evidence suggest the existence of a **hot spot** 📍 of **asthma** in the **desert region** ️🏜️  as well as the **Laguna region**  The former assosated to desert dust (the highest concentration of **PM<sub>10</sub>** )and the latter associated to the highest emissions of **Ammonia**.  **NH<sub>3</sub>** A quimical element found as a result of the economic activity of the region which includes **agro food and dairy industries 🐄**. (Use as **fertilizers**).
+
+## Final thoughts. 
+
+Electricity generation using coal may be replaced with cleaner technologies. This energy transition is important to improve environmental quality and human health in this binational region at the Coahuila Texas border.   
 
 
 
