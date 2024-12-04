@@ -36,7 +36,6 @@ Where $$\( e_{i} \)$$ represents the number of hospital discharges for category 
 This index allows for the evaluation of morbidity conditions in a specific location for a particular illness relative to a reference **geographic area**, at a specific point in time 
 *t*
 
-
 * Kernel density funtions to explore age distribution of patients across the whole country. 
 
 * Age adjusted morbidity rates. 
