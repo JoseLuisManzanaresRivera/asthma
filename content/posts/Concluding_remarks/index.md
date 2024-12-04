@@ -1,9 +1,8 @@
 ---
-date: "2020-04-13"
-description: Guide to emoji usage in Hugo
+date: "2024-07-13"
+description: Final statements
 tags:
-- emoji
-title: Emoji Support
+title: Conclusions
 ---
 
 Emoji can be enabled in a Hugo project in a number of ways. 
