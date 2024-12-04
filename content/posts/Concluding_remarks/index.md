@@ -47,7 +47,7 @@ Electricity generation using coal may be replaced with cleaner technologies. Thi
 * Incorporate a qualitative perspective to explore the life quality impacts for families and the challenges faced by children in particular border communities. 
 
 ***
-### Foro adaptacines locales al cambio climático.
+### FORO:  Adaptacines locales al Cambio Climático.
 
 #  Thank you.  December 6, 2024.
 jlmanzanaresrivera@colef.mx
