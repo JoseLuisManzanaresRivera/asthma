@@ -30,3 +30,17 @@ Therefore, the age distribution by hospital discharge for the case of Coahuila i
 
 ![](./images/edad_asma_comparison.jpg)
 <span style="font-size: 10px;">Fuente: Elaboración propia con datos de (SINAIS, 2022)</span
+
+The distribution of hospital discharges by age indicates that the most affected population is **young**, as **75%** of hospital discharges for asthma at the national level are between the ages of **1 and 21**.
+
+
+**Figure 5**. Age-structure-adjusted asthma morbidity rates
+by Region.  Coahuila, 2022
+
+![](./images/Regiones_v3.jpeg)
+<span style="font-size: 10px;">Fuente:Fuente: Datos de (Consejo Nacional de Población, 2017; SINAIS, 2022).</span
+
+
+* **Key findings:**  The influence area defined in this study, encompassing emissions from the coal-fired power plants of the Federal Electricity Commission, which includes both the **coal mining region** and the **border region**, shows an incidence rate of **15.2** cases per 100,000 inhabitants. This rate is higher than the **national average of 9.6** cases per 100,000 inhabitants.
+
+
