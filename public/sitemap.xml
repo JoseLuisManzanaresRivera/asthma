@@ -80,138 +80,6 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/categories/</loc>
-	    <lastmod>2020-12-01</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:4321/posts/2020-12-01-r-rmarkdown/</loc>
-	    <lastmod>2020-12-01</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:4321/tags/plot/</loc>
-	    <lastmod>2020-12-01</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:4321/categories/r/</loc>
-	    <lastmod>2020-12-01</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:4321/tags/r-markdown/</loc>
-	    <lastmod>2020-12-01</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:4321/tags/regression/</loc>
-	    <lastmod>2020-12-01</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:4321/tags/</loc>
-	    <lastmod>2020-12-01</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:4321/sections/python-tutorial/chapter-2/</loc>
-	    <lastmod>2020-12-02</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:4321/tags/python/</loc>
-	    <lastmod>2020-12-02</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:4321/sections/python-tutorial/</loc>
-	    <lastmod>2020-12-02</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:4321/sections/</loc>
-	    <lastmod>2020-12-02</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:4321/sections/python-tutorial/chapter-1/</loc>
-	    <lastmod>2020-12-01</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
 	    <loc>http://localhost:4321/</loc>
 	    <lastmod>2020-03-25</lastmod>
         
@@ -236,7 +104,29 @@
       
       
 	  <url>
+	    <loc>http://localhost:4321/categories/</loc>
+	    <lastmod>0001-01-01</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
 	    <loc>http://localhost:4321/contact/</loc>
+	    <lastmod>0001-01-01</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:4321/tags/</loc>
 	    <lastmod>0001-01-01</lastmod>
         
 
