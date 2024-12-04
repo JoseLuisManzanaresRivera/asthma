@@ -5,4 +5,4 @@ title: Contact
 
 {{<hidden-email>}}
 
-Don't spam or I will kidnap your cat.
+Let´s collaborate. 

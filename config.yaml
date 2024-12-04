@@ -33,9 +33,6 @@ menu:
       parent: blog
       url: /posts/
       weight: 1
-    - name: divider
-      parent: blog
-      weight: 3
     - name: Tags
       parent: blog
       url: /tags/
