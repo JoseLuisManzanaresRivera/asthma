@@ -3,7 +3,6 @@ date: "2024-08-21"
 image: equation.jpg
 math: true
 tags:
-
 title: Results
 ---
 
