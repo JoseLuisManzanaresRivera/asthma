@@ -66,7 +66,7 @@ This is a public-official data registry. It covers patients in all public health
 18 years of information startitn at 2004 ending 2022.">
   <meta itemprop="datePublished" content="2024-09-22T00:00:00+00:00">
   <meta itemprop="dateModified" content="2024-09-22T00:00:00+00:00">
-  <meta itemprop="wordCount" content="120">
+  <meta itemprop="wordCount" content="218">
 
 
 
@@ -92,6 +92,11 @@ This is a public-official data registry. It covers patients in all public health
 
 
 
+
+<link rel="stylesheet" href="/katex/katex.min.css">
+<script defer src="/katex/katex.min.js"></script>
+<script defer src="/katex/auto-render.min.js"
+    onload="renderMathInElement(document.body);"></script>
 
 
 
@@ -376,6 +381,16 @@ This is a public-official data registry. It covers patients in all public health
 <li>Laguna Region</li>
 <li>South east Region</li>
 </ol>
+<ul>
+<li>Relative concentration. Spatial comparision using <strong>Local Incidence Index</strong> as follows:</li>
+</ul>
+<p>$$
+LII = \dfrac{\left( \dfrac{e_{i}}{\sum_{i=\text{A00}}^{\text{U99}} j} \right)}{\left( \dfrac{e_{i}}{\sum_{i=\text{A00}}^{\text{U99}} N} \right)}
+$$</p>
+<p>Where $$( e_{i} )$$ represents the number of hospital discharges for category <em>i</em>  in the range ICD-10 J45.0–J46.x,  <em>j</em>  indicates a specific state of the country, and  <em>N</em>  represents the national level of comparison.</p>
+<p>This index allows for the evaluation of morbidity conditions in a specific location for a particular illness relative to a reference <strong>geographic area</strong>, at a specific point in time
+<em>t</em></p>
+<p>*Kernel density funtions to explore age distribution of patients across the whole country.</p>
 
 
                 <div id="social-media-share">

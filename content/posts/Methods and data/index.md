@@ -1,6 +1,7 @@
 ---
 date: "2024-09-22"
 image: md.jpg
+math: true
 title: Methods and data sources
 ---
 
@@ -22,6 +23,18 @@ This concept does not include internal transfers—such as moving a patient from
 5. South east Region
 
 
+* Relative concentration. Spatial comparision using **Local Incidence Index** as follows: 
+
+$$
+LII = \dfrac{\left( \dfrac{e_{i}}{\sum_{i=\text{A00}}^{\text{U99}} j} \right)}{\left( \dfrac{e_{i}}{\sum_{i=\text{A00}}^{\text{U99}} N} \right)}
+$$
 
 
 
+Where $$\( e_{i} \)$$ represents the number of hospital discharges for category *i*  in the range ICD-10 J45.0–J46.x,  *j*  indicates a specific state of the country, and  *N*  represents the national level of comparison.
+
+This index allows for the evaluation of morbidity conditions in a specific location for a particular illness relative to a reference **geographic area**, at a specific point in time 
+*t*
+
+
+*Kernel density funtions to explore age distribution of patients across the whole country. 

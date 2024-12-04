@@ -1,34 +1,32 @@
 ---
-date: "2020-12-21"
+date: "2024-08-21"
 image: equation.jpg
 math: true
 tags:
-- math
-title: Write Math Equations
+
+title: Results
 ---
 
-Write math equations with ease. At first enable **math:true** in front matter.
+**Figure 2** Local Incidence Index.
 
-Then write this-
+![](./images/ill.jpg)
+<span style="font-size: 10px;">Fuente: Elaboración propia con datos para los años 2004 a 2022 (SINAIS, 2022).</span> 
 
-{{<highlight md>}}
-$$ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $$
-{{</highlight>}}
 
-to produce this-
+Although the proposed indicator is a relative measure of concentration and **controls for the population size** of the states compared to the national level, the age-specific structure in these geographic areas could introduce biases in the estimation of the Relative Concentration Index (ILI).
 
-$$ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $$
+Therefore, the age distribution by hospital discharge for the case of Coahuila is explored below, based on the construction of **Kernel density curves** according to Chen (2017).
 
-And write this-
 
-{{<highlight md>}}
-$$
- \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } 
-$$
-{{</highlight>}}
 
-to produce this-
+**Figure  3** Average age of hospital discharges by State 2022. (T-test with 95% confidence intervals).
 
-$$
- \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } 
-$$
+![](./images/asma_test.jpg)
+<span style="font-size: 10px;">Fuente: Elaboración propia con datos de (SINAIS, 2022)</span> 
+
+
+**Figure 4**. Age distribution for hospital discharges. asthma patientes in Coahuila, CDMX, and Jalisco 2022.
+
+
+![](./images/edad_asma_comparison.jpg)
+<span style="font-size: 10px;">Fuente: Elaboración propia con datos de (SINAIS, 2022)</span
