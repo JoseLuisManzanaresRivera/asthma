@@ -28,7 +28,9 @@ We documented:
  
  * We employ data with a local perspective based on **electronic health records.**
 
-* Temporal perspective allowing to define a **trend in time**. We actually find **asthma** to be a growing health concern for the region, which indicates a persistent issue demanding the attention of public health authorities.  Evidence indicates a cases concentration peak in **2016** relative to the national scenario (LII=1.88).   
+* Temporal perspective allowing to define a **trend in time**. We actually find **asthma** to be a growing health concern for the region.
+
+Which indicates a persistent issue demanding the attention of public health authorities.  Evidence indicates a cases concentration peak in **2016** relative to the national scenario (LII=1.88).   
 
 * Higher than the national morbidity rates for the border and coal mining regions:   **9.2 vs. 15  per  100 000 pop**. 
 
