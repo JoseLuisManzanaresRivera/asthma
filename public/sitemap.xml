@@ -58,8 +58,8 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/tags/math/</loc>
-	    <lastmod>2020-12-21</lastmod>
+	    <loc>http://localhost:4321/posts/results/</loc>
+	    <lastmod>2024-08-21</lastmod>
         
 
         
@@ -69,41 +69,8 @@
       
       
 	  <url>
-	    <loc>http://localhost:4321/tags/</loc>
-	    <lastmod>2020-12-21</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:4321/posts/write-math-equations/</loc>
-	    <lastmod>2020-12-21</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:4321/posts/make-diagrams-with-mermaid/</loc>
-	    <lastmod>2020-12-20</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:4321/tags/mermaid/</loc>
-	    <lastmod>2020-12-20</lastmod>
+	    <loc>http://localhost:4321/posts/concluding_remarks/</loc>
+	    <lastmod>2024-07-13</lastmod>
         
 
         
@@ -179,6 +146,17 @@
       
       
 	  <url>
+	    <loc>http://localhost:4321/tags/</loc>
+	    <lastmod>2020-12-01</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
 	    <loc>http://localhost:4321/sections/python-tutorial/chapter-2/</loc>
 	    <lastmod>2020-12-02</lastmod>
         
@@ -225,28 +203,6 @@
 	  <url>
 	    <loc>http://localhost:4321/sections/python-tutorial/chapter-1/</loc>
 	    <lastmod>2020-12-01</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:4321/tags/emoji/</loc>
-	    <lastmod>2020-04-13</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:4321/posts/emoji-support/</loc>
-	    <lastmod>2020-04-13</lastmod>
         
 
         

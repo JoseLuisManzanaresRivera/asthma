@@ -34,21 +34,21 @@
       <link>http://localhost:4321/posts/methods-and-data/</link>
       <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/posts/methods-and-data/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;Definition: According to the Ministry of Health (SSA), a &lt;strong&gt;hospital discharge&lt;/strong&gt; is defined as the release of a patient from the inpatient services of a hospital.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This concept does not include internal transfers—such as moving a patient from one department to another within the same hospital—nor does it include healthy newborns in the same hospital (SINAIS, 2024).&lt;/p&gt;</description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Main data source: National Health Information System.&#xA;This is a public-official data registry. It covers patients in all public health institutions.  Available at:  &lt;a href=&#34;http://www.dgis.salud.gob.mx/contenidos/basesdedatos/bdc_egresoshosp_gobmx.html&#34;&gt;SINAIS&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;18 years&lt;/strong&gt; of information startitn at 2004 ending  2022.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Write Math Equations</title>
-      <link>http://localhost:4321/posts/write-math-equations/</link>
-      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/posts/write-math-equations/</guid>
-      <description>&lt;p&gt;Write math equations with ease. At first enable &lt;strong&gt;math:true&lt;/strong&gt; in front matter.&lt;/p&gt;&#xA;&lt;p&gt;Then write this-&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-md&#34; data-lang=&#34;md&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$$ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $$&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&#xA;&lt;p&gt;to produce this-&lt;/p&gt;&#xA;&lt;p&gt;$$ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $$&lt;/p&gt;</description>
+      <title>Results</title>
+      <link>http://localhost:4321/posts/results/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/posts/results/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Figure 2&lt;/strong&gt; Local Incidence Index.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./images/ill.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;span style=&#34;font-size: 10px;&#34;&gt;Fuente: Elaboración propia con datos para los años 2004 a 2022 (SINAIS, 2022).&lt;/span&gt;&lt;/p&gt;&#xA;&lt;p&gt;Although the proposed indicator is a relative measure of concentration and &lt;strong&gt;controls for the population size&lt;/strong&gt; of the states compared to the national level, the age-specific structure in these geographic areas could introduce biases in the estimation of the Relative Concentration Index (ILI).&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Make Diagrams with Mermaid</title>
-      <link>http://localhost:4321/posts/make-diagrams-with-mermaid/</link>
-      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/posts/make-diagrams-with-mermaid/</guid>
-      <description>&lt;p&gt;Mermaid is an awesome software engineering diagramming tool. Write markdowns like this-&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;graph TD  &#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;A[Client] --&amp;gt; B[Load Balancer]  &#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;B --&amp;gt; C[Server01]  &#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;B --&amp;gt; D[Server02]  &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&#xA;&lt;p&gt;to generate diagrams like this-&lt;/p&gt;</description>
+      <title>Conclusions</title>
+      <link>http://localhost:4321/posts/concluding_remarks/</link>
+      <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/posts/concluding_remarks/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hello R Markdown</title>
@@ -56,13 +56,6 @@
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       <guid>http://localhost:4321/posts/2020-12-01-r-rmarkdown/</guid>
       <description>&lt;h1 id=&#34;r-markdown&#34;&gt;R Markdown&lt;/h1&gt;&#xA;&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Emoji Support</title>
-      <link>http://localhost:4321/posts/emoji-support/</link>
-      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/posts/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -38,17 +38,17 @@
     </item>
     <item>
       <title>Results</title>
-      <link>http://localhost:4321/posts/write-math-equations/</link>
+      <link>http://localhost:4321/posts/results/</link>
       <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/posts/write-math-equations/</guid>
+      <guid>http://localhost:4321/posts/results/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Figure 2&lt;/strong&gt; Local Incidence Index.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./images/ill.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;span style=&#34;font-size: 10px;&#34;&gt;Fuente: Elaboración propia con datos para los años 2004 a 2022 (SINAIS, 2022).&lt;/span&gt;&lt;/p&gt;&#xA;&lt;p&gt;Although the proposed indicator is a relative measure of concentration and &lt;strong&gt;controls for the population size&lt;/strong&gt; of the states compared to the national level, the age-specific structure in these geographic areas could introduce biases in the estimation of the Relative Concentration Index (ILI).&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Make Diagrams with Mermaid</title>
-      <link>http://localhost:4321/posts/make-diagrams-with-mermaid/</link>
-      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/posts/make-diagrams-with-mermaid/</guid>
-      <description>&lt;p&gt;Mermaid is an awesome software engineering diagramming tool. Write markdowns like this-&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;graph TD  &#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;A[Client] --&amp;gt; B[Load Balancer]  &#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;B --&amp;gt; C[Server01]  &#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;B --&amp;gt; D[Server02]  &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&#xA;&lt;p&gt;to generate diagrams like this-&lt;/p&gt;</description>
+      <title>Conclusions</title>
+      <link>http://localhost:4321/posts/concluding_remarks/</link>
+      <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/posts/concluding_remarks/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hello R Markdown</title>
@@ -70,13 +70,6 @@
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/sections/python-tutorial/chapter-1/</guid>
       <description>&lt;p&gt;This is Chapter 1.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Emoji Support</title>
-      <link>http://localhost:4321/posts/emoji-support/</link>
-      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/posts/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>

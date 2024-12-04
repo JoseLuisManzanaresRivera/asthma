@@ -37,4 +37,6 @@ This index allows for the evaluation of morbidity conditions in a specific locat
 *t*
 
 
-*Kernel density funtions to explore age distribution of patients across the whole country. 
+* Kernel density funtions to explore age distribution of patients across the whole country. 
+
+* Age adjusted morbidity rates. 
