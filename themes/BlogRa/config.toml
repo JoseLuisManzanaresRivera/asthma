@@ -47,11 +47,6 @@ disqusShortname = ""
                 weight = 1
             [[menu.main]]
                 parent = "blog"
-                name = "Sections"
-                url = "/sections/"
-                weight = 2
-            [[menu.main]]
-                parent = "blog"
                 name = "divider"
                 weight = 3
             [[menu.main]]
