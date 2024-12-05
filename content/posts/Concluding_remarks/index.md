@@ -34,7 +34,7 @@ Which indicates a persistent issue demanding the attention of public health auth
 
 * Higher than the national morbidity rates for the border and coal mining regions:   **15 vs. 9.2  per  100 000 pop**. 
 
-* In additon **evidence** found suggest the existence of a **hot spot** 📍 of **asthma** in the **desert region** ️🏜️  as well as the **Laguna region**  The former assosated to desert dust (the highest concentration of **PM<sub>2.5</sub>** ) and the latter associated to the highest emissions of **Ammonia**.  **NH<sub>3</sub>** A quimical element found as a result of the economic activity of the region which includes **agro food and dairy industries 🐄**. (where NH<sub>3</sub> is Used as **fertilizer**).
+* In additon **evidence** found suggest the existence of a **hot spot** 📍 of **asthma** in the **desert region** ️🏜️  as well as the **Laguna region**  The former assosated to desert dust (the highest concentration of **PM<sub>2.5</sub>** ) and the latter associated to the highest emissions of **Ammonia**.  **NH<sub>3</sub>** A quimical element found as a result of the economic activity of the region which includes **agro food and dairy industries 🐄**. (where NH<sub>3</sub> is a precursor of PM<sub>2.5</sub> often used as **fertilizer**).
 
 ## Final thoughts. 
 
