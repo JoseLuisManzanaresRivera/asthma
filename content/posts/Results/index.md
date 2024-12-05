@@ -1,5 +1,5 @@
 ---
-date: "2024-08-21"
+date: "2024-12-02"
 image: equation.jpg
 math: true
 tags:

@@ -1,5 +1,5 @@
 ---
-date: "2024-11-29"
+date: "2024-12-05"
 image: md.jpg
 tags:
 title: Motivations

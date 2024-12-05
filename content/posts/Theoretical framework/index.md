@@ -1,8 +1,7 @@
 ---
-date: "2024-10-24"
+date: "2024-12-04"
 image: hbd.png
 tags:
-
 title: Theoretical framework
 ---
 
