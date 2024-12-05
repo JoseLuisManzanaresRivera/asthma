@@ -15,7 +15,7 @@ title: Theoretical framework
 
 * Social implications: High social costs for families, including school absenteeism and productivity losses. 
 
-* Expensive out of pocket treatment cost reaching annual $1,600 USD expenditures.
+* Expensive out of pocket treatment cost per petient reaching $1,600 USD as annual expenditures.
 
 * Lack of health care coverage and access to medical treatment for low income families.  
 
@@ -40,7 +40,7 @@ Production valued at 7.02 MMP annually (351 Million USD)
 <span style="font-size: 10px;">Fuente: Infobae</span> 
 
 
-* **530,000** Estimated population exposed to SO<sub>2</sub> concentrations  exceeding recomended 24 hrs WHO exposure recommended limits (20 μg/m<sup>3</sup>)
+* **530,000** Estimated population exposed to SO<sub>2</sub> concentrations  exceeding recomended 24 hrs WHO exposure maximum limits of 20 μg/m<sup>3</sup>
 
 * Estimated affected area. **12, 000 km<sup>2</sup>.**  20 Municipalities and 12 US  Counties (Texas). 
 
