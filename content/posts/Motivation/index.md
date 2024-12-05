@@ -2,7 +2,7 @@
 date: "2024-11-29"
 image: md.jpg
 tags:
-title: Motivación
+title: Motivations
 ---
 
 
