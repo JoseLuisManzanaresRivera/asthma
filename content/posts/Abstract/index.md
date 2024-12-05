@@ -14,7 +14,7 @@ The work analyzes spatial and temporal patterns of hospital discharges due to as
 
 ## Geographic scale. 
 
-The study is conducted for a region on the **Mexico-United States border** characterized by **coal** mining activity and **electricity generation**. This activities are associated with high atmospheric emissions of sulfur dioxide **(SO2)** and nitrogen oxides **(NOx)**, both known triggers for respiratory illnesses.
+The study is conducted for a region on the **Mexico-United States border** characterized by **coal** mining activity and **electricity generation**. These activities are associated with high atmospheric emissions of sulfur dioxide **(SO2)** and nitrogen oxides **(NOx)**, both known triggers for respiratory illnesses.
 
 ## Temporal scope. 
 
