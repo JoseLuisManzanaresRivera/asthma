@@ -16,7 +16,10 @@ title: Concluding remarks
 
 We documented:  
 
-1. **Asthma** incidence at a regional scale focusing on the **border region**. 
+1. **Asthma** incidence at a **regional scale** focusing on the **border region**. <cite>[^4]</cite>
+
+
+[^4]: <span style="font-size: 11px;"> Epidemiological studies with clinical perspective that have studied the link between Asthma and air pollution. Guarnieri & Balmes, 2014; Ryan J. Fiter & Cleven, 2023; SEMARNAT-CEPAL, 2004
 
 2. The relationship between a **chronic-high cost disease**<span class="nowrap"><span class="emojify">🤧</span> and enviromental-human <span class="nowrap"><span class="emojify">🙈</span>caused exposition factors 🏭
 

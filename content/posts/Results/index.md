@@ -47,10 +47,12 @@ To further inquiry  into this pattern we documented emission concentrations of c
 
 **Table 1** Inventory of Criteria Pollutant Emissions (Mg/year). <cite>[^2]</cite>
 
-[^2]:  <span style="font-size: 10px;">Air pollutants for which acceptable levels of exposure have been determined and air quality standards have been set.The abbreviation Mg stands for megagrams, which is equivalent to metric tons (1 Mg = 1,000 kilograms or approximately 2,204.62 pounds). In environmental contexts, such as the reporting of criteria pollutant emissions, quantities are often expressed in megagrams per year (Mg/year) to denote the mass of pollutants emitted annually.See Intergovernmental Panel on Climate Change (IPCC) for additional details.
+[^2]:  <span style="font-size: 11px;">Air pollutants for which acceptable levels of exposure have been determined and air quality standards have been set.The abbreviation Mg stands for megagrams, which is equivalent to metric tons (1 Mg = 1,000 kilograms or approximately 2,204.62 pounds). In environmental contexts, such as the reporting of criteria pollutant emissions, quantities are often expressed in megagrams per year (Mg/year) to denote the mass of pollutants emitted annually.See Intergovernmental Panel on Climate Change (IPCC) for additional details.
 The primary source of ammonia emissions comes from livestock waste and the application of nitrogen-based fertilizers).</span> 
 
 ![](./images/table.jpg)
- <span style="font-size: 10px;">**Source**: Coahuila state Environmental Health Ministry. [Criteria pollutant emissions inventory](https://sma.gob.mx/sga-inventario-de-emisiones-ano-base-2014/)</span> 
+ <span style="font-size: 10px;">**Source**: Coahuila state Environmental Health Ministry. [Criteria pollutant emissions inventory](https://sma.gob.mx/sga-inventario-de-emisiones-ano-base-2014/)</span> <cite>[^3]</cite>
+ 
+[^3]: <span style="font-size: 11px;">Recent studies on dust and health have been conducted by  Herrera-Molina, E., Gill, T. E., Ibarra-Mejia, G., & Jeon, S. (2021). Associations between dust exposure and hospitalizations in El Paso, Texas, USA. Atmosphere, 12(11), 1413 </span>
 
 
