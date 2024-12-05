@@ -18,7 +18,9 @@ title: Motivations
 ![](./images/eaglepass.jpg)
 <span style="font-size: 10px;">Fuente: San Antonio News </span> 
 
-* Local **air pollution** and regional public health issues with relevant **social cost**. 
+* Local **air pollution** and regional public health issues with relevant **social cost**. <cite>[^4]</cite>
+
+[^4]:<span style="font-size: 11px;"> Epidemiological studies with clinical perspective that have studied the link between Asthma and air pollution. Guarnieri & Balmes, 2014; Ryan J. Fiter & Cleven, 2023; SEMARNAT-CEPAL, 2004
 
 ---
 
@@ -38,7 +40,7 @@ title: Motivations
 ![Coahuila Texas-Border](./images/cfe1.png)
 <span style="font-size: 10px;">Fuente: CFE</span> 
 
-[^1]: See full report on  [CEC](http://www.cec.org/es/publications/emisiones-atmosfericas-de-las-centrales-electricas-en-america-del-norte-2/).
+[^1]: <span style="font-size: 11px;">See full report on  [CEC](http://www.cec.org/es/publications/emisiones-atmosfericas-de-las-centrales-electricas-en-america-del-norte-2/).</span>
 
 * Coahuila-Texas border:  Higher than national morbidity rates for **respiratory diseases**
 
