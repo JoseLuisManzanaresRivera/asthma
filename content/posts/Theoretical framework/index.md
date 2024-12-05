@@ -40,7 +40,7 @@ Production valued at 7.02 MMP annually (351 Million USD)
 <span style="font-size: 10px;">Fuente: Infobae</span> 
 
 
-* **530,000** Estimated population exposed to SO<sub>2</sub> concentrations  exceeding recomended 24 hrs WHO exposure maximum limits of 20 μg/m<sup>3</sup>
+* **530,000** Estimated population exposed to SO<sub>2</sub> concentrations  exceeding WHO recomended **24 hrs exposure** maximum **limits** of **20 μg/m<sup>3</sup>**
 
 * Estimated affected area. **12, 000 km<sup>2</sup>.**  20 Municipalities and 12 US  Counties (Texas). 
 
