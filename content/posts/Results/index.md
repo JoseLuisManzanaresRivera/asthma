@@ -39,7 +39,15 @@ by Region.  Coahuila, 2022
 ![](./images/Regiones_v3.jpeg)
 <span style="font-size: 10px;">Fuente:Fuente: Datos de (Consejo Nacional de Población, 2017; SINAIS, 2022).</span
 
+To further inquiry  into this pattern we documented pollution concentrations measurings by region for key elements.
 
-* **Key findings:**  The influence area defined in this study, encompassing emissions from the coal-fired power plants of the Federal Electricity Commission, which includes both the **coal mining region** and the **border region**, shows an incidence rate of **15.2** cases per 100,000 inhabitants. This rate is higher than the **national average of 9.6** cases per 100,000 inhabitants.
+**Table 1** Inventory of Criteria Pollutant Emissions (Mg/year). <cite>[^2]</cite>
+
+[^2]:  <span style="font-size: 10px;">Air pollutants for which acceptable levels of exposure have been determined and air quality standards have been set.The abbreviation Mg stands for megagrams, which is equivalent to metric tons (1 Mg = 1,000 kilograms or approximately 2,204.62 pounds). In environmental contexts, such as the reporting of criteria pollutant emissions, quantities are often expressed in megagrams per year (Mg/year) to denote the mass of pollutants emitted annually.See Intergovernmental Panel on Climate Change (IPCC) for additional details. </span> 
+
+![](./images/table.jpg)
+ <span style="font-size: 10px;">**Source**: Coahuila state Environmental Health Ministry. [Emissions inventory](https://sma.gob.mx/sga-inventario-de-emisiones-ano-base-2014/)</span> 
+
+* **Key findings:**  The influence area defined in this study, encompassing emissions from the coal-fired power plants of the Federal Electricity Commission, which includes both the **coal mining region** and the **border region**, shows an incidence rate of **15.2** cases per 100,000 inhabitants. This rate is higher than the **national average of 9.6** cases per 100,000 inhabitants. 
 
 
