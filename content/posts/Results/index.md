@@ -43,11 +43,12 @@ by Region.  Coahuila, 2022
 * **Key findings:**  The influence area defined in this study, encompassing emissions from the coal-fired power plants of the Federal Electricity Commission, which includes both the **coal mining region** and the **border region**, shows an incidence rate of **15.2** cases per 100,000 inhabitants. This rate is higher than the **national average of 9.6** cases per 100,000 inhabitants. 
 
 
-To further inquiry  into this pattern we documented emission concentrations of criteria pollutants by region for key air quality releted elements.
+To further inquiry  into this pattern we documented emission concentrations of criteria pollutants by region for key air quality related elements.
 
 **Table 1** Inventory of Criteria Pollutant Emissions (Mg/year). <cite>[^2]</cite>
 
-[^2]:  <span style="font-size: 10px;">Air pollutants for which acceptable levels of exposure have been determined and air quality standards have been set.The abbreviation Mg stands for megagrams, which is equivalent to metric tons (1 Mg = 1,000 kilograms or approximately 2,204.62 pounds). In environmental contexts, such as the reporting of criteria pollutant emissions, quantities are often expressed in megagrams per year (Mg/year) to denote the mass of pollutants emitted annually.See Intergovernmental Panel on Climate Change (IPCC) for additional details. </span> 
+[^2]:  <span style="font-size: 10px;">Air pollutants for which acceptable levels of exposure have been determined and air quality standards have been set.The abbreviation Mg stands for megagrams, which is equivalent to metric tons (1 Mg = 1,000 kilograms or approximately 2,204.62 pounds). In environmental contexts, such as the reporting of criteria pollutant emissions, quantities are often expressed in megagrams per year (Mg/year) to denote the mass of pollutants emitted annually.See Intergovernmental Panel on Climate Change (IPCC) for additional details.
+The primary source of ammonia emissions comes from livestock waste and the application of nitrogen-based fertilizers).</span> 
 
 ![](./images/table.jpg)
  <span style="font-size: 10px;">**Source**: Coahuila state Environmental Health Ministry. [Criteria pollutant emissions inventory](https://sma.gob.mx/sga-inventario-de-emisiones-ano-base-2014/)</span> 
