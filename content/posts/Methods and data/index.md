@@ -14,7 +14,7 @@ This is a public-official data registry. It covers patients in all public health
 
 This concept does not include internal transfers—such as moving a patient from one department to another within the same hospital—nor does it include healthy newborns in the same hospital (SINAIS, 2024).
 
-* **Geographical coverage:**  38 Municipalities and 5 regions within the Coahila State.   *here add single maps for each reagion.* 
+* **Geographical coverage:**  38 Municipalities and 5 regions within the Coahila State.   
 
 1. **Border Region**.
 ![](./images/border.jpg)
