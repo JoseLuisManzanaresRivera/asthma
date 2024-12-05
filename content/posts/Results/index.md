@@ -39,7 +39,11 @@ by Region.  Coahuila, 2022
 ![](./images/Regiones_v3.jpeg)
 <span style="font-size: 10px;">Fuente:Fuente: Datos de (Consejo Nacional de Población, 2017; SINAIS, 2022).</span
 
-To further inquiry  into this pattern we documented pollution concentrations measurings by region for key elements.
+
+* **Key findings:**  The influence area defined in this study, encompassing emissions from the coal-fired power plants of the Federal Electricity Commission, which includes both the **coal mining region** and the **border region**, shows an incidence rate of **15.2** cases per 100,000 inhabitants. This rate is higher than the **national average of 9.6** cases per 100,000 inhabitants. 
+
+
+To further inquiry  into this pattern we documented emission concentrations of criteria pollutants by region for key air quality releted elements.
 
 **Table 1** Inventory of Criteria Pollutant Emissions (Mg/year). <cite>[^2]</cite>
 
@@ -47,7 +51,5 @@ To further inquiry  into this pattern we documented pollution concentrations mea
 
 ![](./images/table.jpg)
  <span style="font-size: 10px;">**Source**: Coahuila state Environmental Health Ministry. [Emissions inventory](https://sma.gob.mx/sga-inventario-de-emisiones-ano-base-2014/)</span> 
-
-* **Key findings:**  The influence area defined in this study, encompassing emissions from the coal-fired power plants of the Federal Electricity Commission, which includes both the **coal mining region** and the **border region**, shows an incidence rate of **15.2** cases per 100,000 inhabitants. This rate is higher than the **national average of 9.6** cases per 100,000 inhabitants. 
 
 
