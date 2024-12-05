@@ -6,12 +6,12 @@ title: Motivations
 ---
 
 
-* Strategic economic activities  **Coal mining** and **electricity** generation burnig coal as input. 
+* Strategic economic activities  **Coal mining** and **electricity** generation burning coal as input. 
 
 ![](./images/micare.jpg)
 <span style="font-size: 10px;">Fuente: [MICARE MINOSA  Dos Repulicas Coal Partnership]() </span> 
 
-* Binational economic integration: Comlementary **Coal imports** (*Dos Republicas Coal partnership* MINOSA at Eagle Pass Maverick County, Texas) and electricity export potential. Coahuila-Texas grid. 
+* Binational economic integration: Comlementary **Coal imports** (*Dos Republicas Coal partnership* **MINOSA** at Eagle Pass Maverick County, Texas) and electricity export potential. Coahuila-Texas **grid**. 
 
 
 

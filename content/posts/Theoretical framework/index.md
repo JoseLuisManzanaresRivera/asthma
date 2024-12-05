@@ -9,7 +9,7 @@ title: Theoretical framework
 
 ## Environmental health
 
-* **WHO** perspective on human health including life quality and its social considerations.  (Not only the traditional quimical, fisical and biological factors that are determined on the environment).
+* **WHO** perspective on human health including **life quality** and its social considerations.  (Not only the traditional quimical, fisical and biological factors that are determined on the environment).
 
 * Environmental **justice**  (strong social component)
 
