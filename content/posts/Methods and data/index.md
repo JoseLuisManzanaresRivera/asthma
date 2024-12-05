@@ -17,10 +17,16 @@ This concept does not include internal transfers—such as moving a patient from
 * **Geographical coverage:**  38 Municipalities and 5 regions within the Coahila State.   *here add single maps for each reagion.* 
 
 1. Border Region.
+![](./images/border.jpg)
 2. Coal mining Region
+![](./images/coal.jpg)
 3. Desert Region
+![](./images/desert.jpg)
 4. Laguna Region
+![](./images/laguna.jpg)
 5. South east Region
+![](./images/southeast.jpg)
+
 
 
 * Relative concentration. Spatial comparision using **Local Incidence Index** as follows: 
