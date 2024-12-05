@@ -40,6 +40,8 @@ Which indicates a persistent issue demanding the attention of public health auth
 
 Electricity generation using coal may be replaced with cleaner technologies. This energy transition is important to improve environmental quality and human health in this binational region at the Coahuila Texas border.   
 
+Lessons learned from the **regional patterns** observed suggest that **economic activity**  and its environmental impacts provide valueble inputs for designing  **public health monitoring strategies.** 
+
 
 ## To do list for the research agenda.
 
