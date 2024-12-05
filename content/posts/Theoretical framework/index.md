@@ -15,9 +15,9 @@ title: Theoretical framework
 
 * Social implications: High social costs for families, including school absenteeism and productivity losses. 
 
-* Expensive out of pocket treatment cost per petient reaching $1,600 USD as annual expenditures.
+* Expensive **out of pocket treatment cost** per patient reaching $1,600 USD as annual expenditures.
 
-* Lack of health care coverage and access to medical treatment for low income families.  
+* Lack of **health care coverage** and access to medical treatment for low income families.  
 
 ## Economic activity and environmental pollution
 
