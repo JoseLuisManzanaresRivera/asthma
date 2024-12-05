@@ -32,7 +32,7 @@ We documented:
 
 Which indicates a persistent issue demanding the attention of public health authorities.  Evidence indicates a cases concentration peak in **2016** relative to the national scenario (**LII=1.88**).   
 
-* Higher than the national morbidity rates for the border and coal mining regions:   **9.2 vs. 15  per  100 000 pop**. 
+* Higher than the national morbidity rates for the border and coal mining regions:   **15 vs. 9.2  per  100 000 pop**. 
 
 * Evidence suggest the existence of a **hot spot** 📍 of **asthma** in the **desert region** ️🏜️  as well as the **Laguna region**  The former assosated to desert dust (the highest concentration of **PM<sub>10</sub>** )and the latter associated to the highest emissions of **Ammonia**.  **NH<sub>3</sub>** A quimical element found as a result of the economic activity of the region which includes **agro food and dairy industries 🐄**. (Use as **fertilizers**).
 
