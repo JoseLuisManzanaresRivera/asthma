@@ -6,7 +6,7 @@ title: Motivación
 ---
 
 
-* Strategic economic activities  **Coal minning** and **electricity** generation burnig coal as input. 
+* Strategic economic activities  **Coal mining** and **electricity** generation burnig coal as input. 
 
 ![](./images/micare.jpg)
 <span style="font-size: 10px;">Fuente: [MICARE MINOSA  Dos Repulicas Coal Partnership]() </span> 
