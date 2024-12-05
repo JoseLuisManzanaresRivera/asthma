@@ -24,11 +24,11 @@ We documented:
 ## Analysis strengths:  
 
 
- * We use international comparable  indicators allowing binational montoring.  
+ * We use international comparable  indicators allowing **binational monitoring**.  
  
- * We employ data with a local perspective based on **electronic health records.**
+ * We employ data with a **local perspective** based on **electronic health records.**
 
-* Temporal perspective allowing to define a **trend in time**📈. We actually find **asthma** to be a growing health concern for the region.
+* **Temporal** perspective allowing to define a **trend in time**📈. We actually find **asthma** to be a growing health concern for the region.
 
 Which indicates a persistent issue demanding the attention of public health authorities.  Evidence indicates a cases concentration peak in **2016** relative to the national scenario (**LII=1.88**).   
 
