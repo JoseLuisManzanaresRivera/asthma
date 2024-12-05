@@ -44,7 +44,7 @@ Production valued at 7.02 MMP annually (351 Million USD)
 
 * Estimated affected area. **12, 000 km<sup>2</sup>.**  20 Municipalities and 12 US  Counties (Texas). 
 
-* Air Pollution documented at **Big Bend** and Boquillas del Carmen **national Parks**. 280 km. North east from pollution sources. 
+* Air Pollution documented at **Big Bend** and Boquillas del Carmen **national Parks**. **280 km**. North east from pollution emissions source. 
 
 
 **Fig. 1 Study area**

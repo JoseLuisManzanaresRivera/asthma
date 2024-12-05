@@ -6,7 +6,7 @@ title: Methods and data sources
 ---
 
 * Main data source: National Health Information System.
-This is a public-official data registry. It covers patients in all public health institutions.  Available at:  [SINAIS](http://www.dgis.salud.gob.mx/contenidos/basesdedatos/bdc_egresoshosp_gobmx.html)
+This is a **public-official data repository**. It covers patients in all public health institutions.  Available at:  [SINAIS](http://www.dgis.salud.gob.mx/contenidos/basesdedatos/bdc_egresoshosp_gobmx.html)
 
 * **18 years** of information startitn at 2004 ending  2022.
 
