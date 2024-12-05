@@ -14,7 +14,7 @@ This is a **public-official data repository**. It covers patients in all public 
 
 This concept does not include internal transfers—such as moving a patient from one department to another within the same hospital—nor does it include healthy newborns in the same hospital (SINAIS, 2024).
 
-* **Geographical coverage:**  38 Municipalities and 5 regions within the Coahila State.   
+* **Geographical coverage:**  38 Municipalities and **5 regions** within the Coahuila State.   
 
 1. **Border Region**.
 ![](./images/border.jpg)
@@ -42,6 +42,6 @@ Where $$\( e_{i} \)$$ represents the number of hospital discharges for category 
 This index allows for the evaluation of morbidity conditions in a specific location for a particular illness relative to a reference **geographic area**, at a specific point in time 
 *t*
 
-* **Kernel density** funtions to explore age distribution of patients across the whole country with confidence intervals. 
+* **Kernel density** funtions to explore **age distribution** of patients across the whole country with confidence intervals. 
 
 * Age adjusted morbidity **rates**. 
