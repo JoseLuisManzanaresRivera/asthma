@@ -19,13 +19,13 @@ disqusShortname = ""
     mermaid         = false   # best to enable this in the front matter of a page
 
     # Social Media Params
-    facebook   = "https://www.facebook.com/DevHacker-2351204168278028"
-    twitter    = "https://x.com/rafedyasir"
-    youtube    = "https://www.youtube.com/channel/UC6uDg4IlPbLh2xNKrqnBczw"
-    instagram  = "https://www.instagram.com/rafedyasir/"
-    github     = "https://github.com/rafed"
+    facebook   = ""
+    twitter    = ""
+    youtube    = ""
+    instagram  = ""
+    github     = ""
     pinterest  = ""
-    linkedin   = "https://www.linkedin.com/in/rafed-m-yasir/"
+    linkedin   = ""
 
 
 # Configure the site menu here
